@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+.nav-color{
+  background: #000000cc;
+}
+.width-margin{
+  margin-left: 12.5%;
+}
+.font-size{
+  font-size: 15px;
+}
+.iphone-image{
+  height: 500px;
+}
+.grey-background{
+  background: #f3f3f3;
+}
+.links-margin{
+  margin-left: 43.4%;
+}
+.iphone-max-image{
+  height: 300px;
+  margin-left: 33.5%;
+}
+.flex-image{
+  height: 350px;
+  border-radius: 20px;
+  margin-left: 1%;
+}
+.airtag-margin{
+  margin-left: 39.5%;
+}
+.button-buy{
+  margin-left: 46.5%;
+  background: #0071e3;
+  border-radius: 20px;
+  width: 5%;
+}
+.airtag-image{
+  width: 90%;
+}
+.text-on-image{
+  transform: translate(0% , -1570%);
+  margin-left: 300px;
+}
+.message-on-image{
+  transform: translate(-13% , -1300%);
+  margin-left: 300px;
+}
+.link-on-image{
+  transform: translate(-13% , -3800%);
+  margin-left: 700px;
+}
